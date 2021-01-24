@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Flight to Minneapolis",
+      "day": "Jan 24 at 6:00 AM",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Lease Signing",
+      "day": "Jan 27 at 2:00 PM",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
